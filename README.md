@@ -64,5 +64,125 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-wyndpath-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://wyndpath.com/
+Wyndpath is a technology company that provides advanced routing and navigation solutions for logistics and transportation industries. Their platform integrates real-time traffic data, predictive analytics, and customizable routing algorithms to optimize fleet operations, reduce fuel consumption, and improve delivery times. Wyndpath offers APIs for route planning, vehicle tracking, and analytics, enabling developers to embed sophisticated navigation capabilities into their applications. The company focuses on enterprise customers and supports integration with major fleet management systems.
+
+**Areas:** Company · API · Scraping · Data · Automation · Web
+
+## wyndpath-com on APIs.io
+
+Everything profiled for wyndpath-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/wyndpath-com/](https://apis.io/providers/wyndpath-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (11)
+
+- [wyndpath-com Account API](https://apis.io/apis/wyndpath-com/wyndpath-com-account-api/) — The Account API from wyndpath-com — 1 operation(s) for account.
+- [wyndpath-com Charge API](https://apis.io/apis/wyndpath-com/wyndpath-com-charge-api/) — The Charge API from wyndpath-com — 1 operation(s) for charge.
+- [wyndpath-com Estimate API](https://apis.io/apis/wyndpath-com/wyndpath-com-estimate-api/) — The Estimate API from wyndpath-com — 1 operation(s) for estimate.
+- [wyndpath-com Geo API](https://apis.io/apis/wyndpath-com/wyndpath-com-geo-api/) — The Geo API from wyndpath-com — 1 operation(s) for geo.
+- [wyndpath-com Healthz API](https://apis.io/apis/wyndpath-com/wyndpath-com-healthz-api/) — The Healthz API from wyndpath-com — 1 operation(s) for healthz.
+- [wyndpath-com Internal API](https://apis.io/apis/wyndpath-com/wyndpath-com-internal-api/) — The Internal API from wyndpath-com — 1 operation(s) for internal.
+- [wyndpath-com Profiles API](https://apis.io/apis/wyndpath-com/wyndpath-com-profiles-api/) — The Profiles API from wyndpath-com — 1 operation(s) for profiles.
+- [wyndpath-com Requests API](https://apis.io/apis/wyndpath-com/wyndpath-com-requests-api/) — The Requests API from wyndpath-com — 1 operation(s) for requests.
+- [wyndpath-com Stats API](https://apis.io/apis/wyndpath-com/wyndpath-com-stats-api/) — The Stats API from wyndpath-com — 1 operation(s) for stats.
+- [wyndpath-com Target API](https://apis.io/apis/wyndpath-com/wyndpath-com-target-api/) — The Target API from wyndpath-com — 1 operation(s) for target.
+- [wyndpath-com Wynd Path API](https://apis.io/apis/wyndpath-com/wyndpath-com-wyndpath-api/) — The WyndPath API from wyndpath-com — 1 operation(s) for wyndpath.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Wyndpath Com Agentic Access](https://apis.io/agentic-access/wyndpath-com/wyndpath-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Wyndpath Com Context](https://apis.io/jsonld/wyndpath-com/wyndpath-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [wyndpath-com API Rules](https://apis.io/rules/wyndpath-com/wyndpath-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Wyndpath Com Domain Security](https://apis.io/security/wyndpath-com/wyndpath-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Wyndpath Com Plans Pricing](https://apis.io/plans/wyndpath-com/wyndpath-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://wyndpath.com/)
+- [Documentation](https://www.wyndpath.com/docs)
+- [Getting started](https://www.wyndpath.com/en/docs/quickstart)
+- [Pricing](https://www.wyndpath.com/tarifs)
+- [Blog](https://www.wyndpath.com/blog)
+- [Terms of service](https://www.wyndpath.com/en/terms)
+- [Privacy policy](https://www.wyndpath.com/en/privacy)
+
+## API Evangelist rating
+
+**Kin Score 48.3** — developing · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 41.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 46.9 |
+| Access clarity | 60.0 |
+
+**Agent readiness 30.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/wyndpath-com/](https://apis.io/providers/wyndpath-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for wyndpath-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/wyndpath-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
